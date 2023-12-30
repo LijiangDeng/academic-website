@@ -16,6 +16,9 @@ superuser: true
 organizations:
 - name: TEAM OF THE - 5
 
+organizations:
+- name: Contact:lij_deng@yeah.net
+
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 

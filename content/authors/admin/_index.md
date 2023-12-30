@@ -36,13 +36,13 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: google-scholar
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
+    link: ''
+  - icon: arxiv
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
+    link: https://arxiv.org/user/
+  - icon: github
     icon_pack: fab
     link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
@@ -50,7 +50,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

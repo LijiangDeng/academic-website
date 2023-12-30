@@ -61,4 +61,6 @@ I am a complexity scientist who studies complex physical systems and models huma
 (i)Complexity science: systems modeling of light pollution and ecosystems
 
 (ii)Application of evolutionary algorithms to human perceptual dynamics
+
+My recent manuscript on modeling the mechanisms of light pollution and ecosystem was submitted to the *Human and Ecological Risk Assessment*.
 {style="text-align: justify;"}

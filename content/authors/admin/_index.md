@@ -13,14 +13,11 @@ status:
 # Is this the primary user of the site?
 superuser: true
 
+organizations:
+- name: TEAM OF THE - 5
+
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

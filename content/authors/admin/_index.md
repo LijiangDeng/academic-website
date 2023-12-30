@@ -37,14 +37,14 @@ social:
     display:
       header: true
   - icon: google-scholar
-    icon_pack: fas
+    icon_pack: fab
     link: ''
   - icon: arxiv
     icon_pack: fab
     link: https://arxiv.org/user/
   - icon: github
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/LijiangDeng
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.

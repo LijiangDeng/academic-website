@@ -56,11 +56,13 @@ social:
 highlight_name: true
 ---
 
-I am a complexity scientist who studies complex physical systems and models human behavioral dynamics (complex networks). I conduct research at the interface between mathematics and other subjects, aiming for complexity and adaptive modeling. My current research interest includes:
+I am a complexity scientist who studies complex physical systems and models human behavioral dynamics (complex networks). I conduct research at the interface between mathematics and other subjects, aiming for complexity and adaptive modeling. Currently, my research interest includes:
 
 (i)Complexity science: systems modeling of light pollution and ecosystems
 
 (ii)Application of evolutionary algorithms to human perceptual dynamics
 
 My recent manuscript on modeling the mechanisms of light pollution and ecosystem was submitted to the *Human and Ecological Risk Assessment*.
+
+Please feel free to reach out to me if you are interested in my research or have any questions. I am always happy to help.
 {style="text-align: justify;"}

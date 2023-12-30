@@ -56,5 +56,9 @@ social:
 highlight_name: true
 ---
 
-Lijiang Deng is a complexity scientist who studies complex physical systems and models human behavioral dynamics (complex networks). Lijiang Deng conducts research at the interface between mathematics and other subjects, aiming for complexity and adaptive modeling.
+I am a complexity scientist who studies complex physical systems and models human behavioral dynamics (complex networks). I conduct research at the interface between mathematics and other subjects, aiming for complexity and adaptive modeling. My current research interest includes:
+
+(i)Complexity science: systems modeling of light pollution and ecosystems
+
+(ii)Application of evolutionary algorithms to human perceptual dynamics
 {style="text-align: justify;"}

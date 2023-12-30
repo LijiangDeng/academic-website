@@ -56,5 +56,5 @@ social:
 highlight_name: true
 ---
 
-Lijiang is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Lijiang Deng is a complexity scientist who studies complex physical systems and models human behavioral dynamics (complex networks). Lijiang Deng conducts research at the interface between mathematics and other subjects, aiming for complexity and adaptive modeling.
 {style="text-align: justify;"}

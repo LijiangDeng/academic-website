@@ -33,7 +33,7 @@ social:
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/my-orcid?orcid=0009-0002-7499-2471
-    label: Follow me on Twitter
+    label: Follow me on ORCID
     display:
       header: true
   - icon: google-scholar

@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Lijiang Deng
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Lijiang Deng
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Lijiang
+last_name: Deng
 
 # Status emoji
 status:
